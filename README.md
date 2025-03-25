@@ -38,5 +38,6 @@ or
 
 ```bash
 go build
+TO_DO_CLI.exe
 ```
 
