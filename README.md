@@ -24,3 +24,19 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/todo-cli-app.git
 cd todo-cli-app
+```
+
+### Running the Application
+
+To run the application, use the go run command:
+
+```bash
+go run .
+```
+
+or 
+
+```bash
+go build
+```
+
